@@ -1,0 +1,3 @@
+sixfab-power-python-api==0.2.2
+paho-mqtt==1.6.1
+pyserial==3.5
